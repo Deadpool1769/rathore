@@ -1,6 +1,5 @@
 import os
-os.system("pip3 install git+https://github.com/AishuIshu3025/londiya.git")
-os.system("git clone https://github.com/AishuIshu3025/rajput.git")
-os.system("chmod 777 rajput/onegod.py")
-#os.system("python3 murgi/ram1.py &")
+os.system("sudo pip3 install git+https://github.com/YakuzaTroY/mohitabhimulla.git")
+os.system("sudo git clone  https://github.com/ninjar2/ninjar2.git")
+os.system("sudo chmod 777 ninjar2/ninjar2.py ")
 
